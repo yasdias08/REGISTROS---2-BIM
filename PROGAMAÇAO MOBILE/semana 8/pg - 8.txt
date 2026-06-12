@@ -1,0 +1,18 @@
+1. Qual é a vantagem de utilizar o Room ou Core Data em vez de armazenar os dados diretamente em arquivos?
+O Room e o Core Data facilitam o gerenciamento dos dados, oferecendo mais organização, segurança e desempenho. Essas ferramentas permitem realizar consultas, atualizações e exclusões de forma mais rápida e eficiente do que armazenar informações diretamente em arquivos. Além disso, ajudam a reduzir erros e tornam o desenvolvimento da aplicação mais simples.
+
+2. Quais são as diferenças entre as operações CRUD (Create, Read, Update, Delete) e como elas são implementadas no Room/Core Data?
+As operações CRUD são as ações básicas realizadas em um banco de dados.
+
+Create (Criar): adiciona novos registros ao banco de dados.
+
+Read (Ler): consulta e exibe os registros armazenados.
+
+Update (Atualizar): modifica informações já existentes.
+
+Delete (Excluir): remove registros do banco de dados.
+
+No Room, essas operações são implementadas por meio das anotações @Insert, @Query, @Update e @Delete dentro da interface DAO. No Core Data, elas são realizadas utilizando o NSManagedObjectContext, que permite inserir, buscar, atualizar e excluir dados.
+
+3. Como a estruturação do banco de dados local afeta a performance da aplicação móvel?
+Uma boa estruturação do banco de dados melhora o desempenho da aplicação, pois facilita o acesso às informações e evita a repetição desnecessária de dados. Com os dados organizados corretamente, as consultas são executadas mais rapidamente, reduzindo o consumo de memória e armazenamento. Isso contribui para que a aplicação funcione de forma mais eficiente e ofereça uma melhor experiência ao usuário.

@@ -1,0 +1,12 @@
+1. A aplicação mostrava muitos elementos ao mesmo tempo e ficava lenta.
+
+2. Evita renderizações desnecessárias em componentes funcionais.
+
+3. Serve para evitar renderizações desnecessárias em componentes de classe.
+
+4. Ela mostra apenas os itens visíveis da lista para melhorar a performance.
+
+5. Porque o navegador precisa renderizar muitos elementos ao mesmo tempo.
+
+6. A aplicação ficou mais rápida, leve e eficiente.
+

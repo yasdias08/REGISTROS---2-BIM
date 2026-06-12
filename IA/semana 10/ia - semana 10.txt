@@ -1,0 +1,13 @@
+
+Grupo; Ana Clara; Evilyn Rossin e Yasmin
+
+Aula 1 - 17 a 20
+
+1. Qual abordagem atende melhor o prazo de duas semanas?
+A abordagem de modelo pronto + prompts atende melhor o prazo, porque a equipe pode começar os testes imediatamente sem precisar treinar a IA do zero. Isso economiza muito tempo.
+
+2. Qual cabe no orçamento de R$ 5 mil?
+A opção de modelo pronto + prompts é a que melhor cabe no orçamento, pois praticamente não exige custos altos com treinamento ou GPUs. Os embeddings customizados também podem caber no orçamento, mas ainda exigem algum treinamento.
+
+3. Qual tem menor risco de falhar?
+A opção com modelo pronto + prompts possui menor risco técnico, porque os modelos já foram treinados e testados pela comunidade. Assim, há menos chance de erros ou problemas durante o desenvolvimento.

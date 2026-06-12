@@ -1,0 +1,23 @@
+AULA 2 - 06 A 19
+
+
+O que a IA manteve genérico na imagem de class prompt?
+A IA criou apenas imagens de gatos comuns, sem características únicas ou detalhes específicos.
+
+O que ficou mais específico/detalhado na imagem de instance prompt?
+A IA adicionou detalhes específicos, como o nome Luna, os olhos azuis, a coleira rosa e o cenário perto da janela.
+
+AULA 3 - PERGUNTAS
+
+1. Durante os experimentos, quantas tentativas foram necessárias até conseguir uma imagem satisfatória?
+
+Foram necessárias cerca de 4 a 5 tentativas até chegar em uma imagem satisfatória. Em cada tentativa o grupo ajustou detalhes do prompt, os pesos dos estilos e os negative prompts para melhorar a qualidade e deixar a imagem mais próxima da ideia da campanha.
+
+
+ 2. Como a cooperação entre o grupo influenciou o resultado final?
+
+A cooperação ajudou bastante porque cada integrante trouxe ideias diferentes para o projeto. Enquanto um focava mais nos elementos futuristas, o outro sugeria detalhes inspirados na arte renascentista. Em alguns momentos houve opiniões diferentes sobre quais elementos deveriam ter mais destaque, mas o grupo resolveu isso testando diferentes pesos e comparando os resultados. Assim, foi possível encontrar um equilíbrio que agradasse a todos e deixasse a imagem mais criativa e harmoniosa.
+
+ 3. Explique a diferença entre prompt weighting e negative prompts.
+
+O prompt weighting é usado para aumentar ou diminuir a importância de certos elementos dentro da imagem. Ele é mais útil quando queremos destacar um estilo, objeto ou característica específica.

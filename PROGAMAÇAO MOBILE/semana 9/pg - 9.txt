@@ -1,0 +1,8 @@
+1. Por que é importante testar as operações CRUD em um banco de dados antes de colocar um sistema em produção?
+É importante testar as operações CRUD para garantir que os dados sejam inseridos, consultados, atualizados e removidos corretamente. Esses testes ajudam a identificar erros antes que o sistema seja utilizado pelos usuários, evitando problemas como perda de informações, falhas no funcionamento e inconsistências no banco de dados.
+
+2. Quais são os benefícios de utilizar um comando UPDATE, em vez de inserir um novo registro com as informações atualizadas? Explique o impacto disso no desempenho e na integridade dos dados.
+O comando UPDATE permite modificar informações que já existem no banco de dados sem criar registros duplicados. Isso ajuda a manter a integridade dos dados, evitando informações repetidas e inconsistentes. Além disso, atualizar um registro geralmente consome menos recursos do sistema do que inserir um novo registro e depois remover o antigo, melhorando o desempenho do banco de dados.
+
+3. Ao excluir um registro de uma tabela, quais boas práticas você recomendaria para evitar a perda de dados críticos ou erros não intencionais no sistema?
+Antes de excluir um registro, é importante verificar se ele realmente deve ser removido. Também é recomendável realizar backups periódicos do banco de dados e utilizar critérios específicos no comando DELETE para evitar exclusões acidentais. Em alguns casos, pode ser mais seguro apenas marcar o registro como inativo em vez de removê-lo definitivamente, preservando o histórico das informações.

@@ -1,0 +1,11 @@
+1. Por que a escolha do Grid Layout é apropriada para a tela inicial que exibe as categorias?
+O Grid Layout é apropriado porque permite organizar as categorias em linhas e colunas, aproveitando melhor o espaço da tela. Dessa forma, o usuário consegue visualizar várias categorias ao mesmo tempo, tornando a navegação mais rápida e organizada.
+
+2. Qual foi a principal vantagem de usar intents para navegar da tela de categorias para a tela de produtos?
+A principal vantagem é que as intents facilitam a comunicação entre diferentes atividades do aplicativo. Elas permitem abrir uma nova tela de forma simples e eficiente, além de possibilitar o envio de informações, como a categoria selecionada pelo usuário.
+
+3. Quais foram os benefícios de utilizar fragments na tela de detalhes do produto?
+Os fragments permitem reutilizar componentes da interface em diferentes partes do aplicativo, tornando o desenvolvimento mais organizado e flexível. Além disso, facilitam a navegação e reduzem a necessidade de criar várias atividades para exibir conteúdos diferentes.
+
+4. Como o Constraint Layout contribuiu para a criação de uma interface mais flexível na tela de detalhes do produto?
+O Constraint Layout permite posicionar os elementos da tela de forma mais livre e eficiente, utilizando restrições entre os componentes. Isso ajuda a criar uma interface responsiva, que se adapta melhor a diferentes tamanhos e resoluções de tela, mantendo a organização visual do aplicativo.

@@ -1,0 +1,11 @@
+1. Quais são os principais benefícios de utilizar um repositório para gerenciar o acesso a dados em um aplicativo mobile?
+O uso de um repositório ajuda a organizar melhor o código, centralizando o acesso aos dados em um único local. Isso facilita a manutenção do aplicativo, reduz a duplicação de código e permite que a lógica de negócio funcione sem precisar conhecer os detalhes de armazenamento dos dados.
+
+2. Como a implementação dos métodos saveHabit, getHabits, updateHabit e deleteHabit facilita a organização do código?
+Esses métodos definem operações específicas para criar, consultar, atualizar e excluir hábitos. Dessa forma, o código fica mais organizado, fácil de entender e reutilizar, pois todas as operações relacionadas aos dados ficam concentradas no repositório.
+
+3. Por que a separação entre repositórios locais e remotos é importante para a experiência do usuário em aplicativos móveis?
+A separação permite que o aplicativo continue funcionando mesmo sem acesso à internet, utilizando o armazenamento local. Quando a conexão é restabelecida, os dados podem ser sincronizados com o servidor remoto. Isso garante maior disponibilidade, desempenho e uma melhor experiência para o usuário.
+
+4. Descreva uma situação em que a utilização de um HabitRepositoryManager pode melhorar a eficiência do aplicativo.
+Um exemplo é quando o usuário registra seus hábitos em um local sem acesso à internet. O HabitRepositoryManager pode armazenar os dados no repositório local e, quando a conexão voltar, sincronizar automaticamente as informações com o servidor remoto. Isso evita a perda de dados e mantém o aplicativo funcionando normalmente em qualquer situação.

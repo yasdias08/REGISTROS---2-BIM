@@ -1,0 +1,96 @@
+	
+Prompt Perfume; 
+
+Publicidade ultraluxuosa de perfume árabe, branding premium de fragrância feminina, elegante frasco de perfume em cristal rosa-claro facetado, posicionado sobre uma penteadeira de mármore branco polido, etiqueta dourada gravada com tipografia árabe escrita “LAYALI NOOR”, textura de vidro altamente detalhada e reflexiva, estética sofisticada de perfume do Oriente Médio inspirada em Dubai, tampa metálica dourada artesanal ornamentada com padrões filigranados e detalhes de pedras preciosas, líquido de perfume rosa translúcido dentro do frasco, reflexos e refrações realistas do cristal, estilo de campanha de beleza de alta-costura.
+
+Atrás do frasco, uma caixa de perfume combinando em tom rosa blush, com padrões arabescos em relevo, bordas em dourado metálico, motivo de arco islâmico, design de embalagem luxuoso, acabamento com textura semelhante a papel aveludado, branding árabe premium, posicionada levemente desfocada ao fundo para criar profundidade.
+
+Ambiente cercado por arranjos florais românticos: rosas rosa-claro, galhos de cerejeira em flor, flores brancas suaves, pétalas espalhadas com gotas de orvalho, pérolas delicadas sobre a superfície de mármore, partículas douradas brilhantes e atmosfera feminina luxuosa.
+
+Plano de fundo com espelho antigo dourado, cortinas de seda em tom champanhe, brilho quente do pôr do sol entrando pela janela, iluminação bokeh sonhadora, sombras cinematográficas, profundidade de campo suave, ambiente luxuoso de penteadeira, interior inspirado em palácios reais, visual editorial romântico de alta moda.
+
+Iluminação extremamente suave e quente, estética de hora dourada (golden hour), iluminação volumétrica, brilhos intensos no frasco de cristal, reflexos realistas, configuração de fotografia comercial de luxo, texturas fotorrealistas, ultra detalhado, composição elegante, produto centralizado, clima sofisticado de luxo feminino.
+
+Pergunta aula 2
+
+Por que o fine -tuning tradicional é tão caro?
+
+O fine-tuning tradicional é caro principalmente porque ele altera os pesos do modelo inteiro (ou de uma grande parte dele). Isso gera custos em várias frentes:
+
+1. Treinamento de bilhões de parâmetros
+Modelos modernos têm bilhões de parâmetros. Durante o fine-tuning, o sistema precisa:
+
+Fazer a passagem direta (forward pass)
+Calcular erros (backpropagation)
+Atualizar pesos
+Isso exige enorme poder computacional em GPUs ou TPUs.
+
+Por exemplo, ajustar um modelo de 70 bilhões de parâmetros pode consumir dezenas ou centenas de horas de GPUs de ponta.
+
+2. Memória muito alta
+Além de armazenar os pesos do modelo, o treinamento precisa guardar:
+
+Gradientes
+Estados do otimizador (Adam, AdamW etc.)
+Ativações intermediárias
+Na prática, um modelo de 7 bilhões de parâmetros pode exigir muito mais memória durante o treinamento do que durante a inferência.
+
+3. Grandes conjuntos de dados
+Um fine-tuning de qualidade normalmente requer:
+
+Milhares ou milhões de exemplos
+Limpeza dos dados
+Rotulagem
+Validação
+A preparação dos dados frequentemente custa mais do que o treinamento em si.
+
+4. Necessidade de múltiplos experimentos
+Raramente o primeiro treinamento funciona perfeitamente.
+
+As equipes precisam testar:
+
+Taxa de aprendizado
+Batch size
+Número de épocas
+Estratégias de regularização
+Cada tentativa significa novo gasto computacional.
+
+5. Armazenamento e implantação
+Depois do treinamento, surge outro problema:
+
+Armazenar versões do modelo
+Hospedar modelos personalizados
+Fazer monitoramento e atualizações
+Cada cliente ou caso de uso pode gerar uma nova versão do modelo.
+
+Por que LoRA e PEFT ficaram populares?
+Técnicas modernas como LoRA (Low-Rank Adaptation) e PEFT (Parameter-Efficient Fine-Tuning) resolvem parte desse problema.
+
+Em vez de ajustar todos os parâmetros, elas treinam apenas uma pequena fração deles.
+
+Exemplo simplificado:
+
+Fine-tuning completo: atualiza 100% dos pesos.
+LoRA: atualiza frequentemente menos de 1% dos pesos.
+Isso reduz drasticamente:
+
+Uso de GPU
+Tempo de treinamento
+Custo financeiro
+Espaço de armazenamento
+Por isso, hoje muitas empresas preferem RAG (Retrieval-Augmented Generation) ou LoRA antes de fazer um fine-tuning completo.
+
+Prompt colar;
+
+Fotografia editorial de luxo extremo, modelo feminina com presença magnética e elegante, close-up cinematográfico focado no pescoço e no colar, joia de alta joalheria exclusiva feita com safiras azul profundo e diamantes impecáveis, aparência de arte rara e peça única, brilho etéreo azul refletindo suavemente na pele, atmosfera misteriosa e sofisticada, iluminação dramática de estúdio, fundo preto absoluto, sombras profundas, contraste refinado, visual de realeza moderna, sensação de poder, riqueza e exclusividade, joia com design celestial inspirado em constelações e estrelas, reflexos cristalinos, diamantes com dispersão de luz perfeita, pele impecável, editorial de moda de elite, estética de campanha milionária, luxo silencioso, elegância sobrenatural, composição minimalista, foco absoluto na joia, hiper-realista, ultra detalhado, qualidade 8K, masterpiece, sem texto, sem logo, sem marca d'água.
+
+PERGUNTAS DE CONSOLIDAÇÃO;
+
+1. Criatividade e feedback
+O feedback do diretor de arte foi importante porque ajudou a destacar ainda mais o colar, que era o foco principal da imagem. As sugestões de adicionar joias azuis, deixar o design mais sofisticado e aproximar a câmera fizeram com que o acessório parecesse mais luxuoso e chamativo. Isso me ajudou a enxergar novas possibilidades para melhorar o prompt e valorizar os detalhes da peça.
+
+2. Curiosidade e exploração
+A descoberta mais interessante foi perceber que pequenas alterações no prompt mudavam completamente o resultado da imagem. Termos como "joias azuis brilhantes", "luxo extremo", "iluminação cinematográfica" e "foco no colar" fizeram uma grande diferença. O termo que mais transformou a imagem foi "foco no colar", porque direcionou a inteligência artificial a destacar o acessório como elemento principal da composição.
+
+3. Motivação de realização
+Ver a imagem final foi muito satisfatório, porque o colar ficou muito mais impressionante e detalhado do que na primeira versão. O esforço para refinar o prompt valeu a pena, pois cada ajuste melhorou a qualidade, o brilho das joias e a elegância da modelo. A imagem final ficou mais profissional, transmitindo exatamente a ideia de uma joia exclusiva e sofisticada que queríamos criar.

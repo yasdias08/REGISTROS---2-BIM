@@ -1,0 +1,8 @@
+1. Como as ferramentas de design de interface (como Figma ou Adobe XD) auxiliam no processo de desenvolvimento de um aplicativo mobile?
+As ferramentas de design de interface ajudam a criar protótipos e layouts antes da programação do aplicativo. Elas permitem visualizar como será a aparência das telas, organizar os elementos visuais e testar ideias, facilitando a comunicação entre designers e desenvolvedores. Dessa forma, é possível identificar e corrigir problemas antes da implementação.
+
+2. Por que é importante seguir um protótipo de design ao implementar uma interface no código?
+Seguir um protótipo garante que a interface final fique de acordo com o planejamento realizado. Isso ajuda a manter a organização, a consistência visual e uma boa experiência para o usuário. Além disso, reduz erros durante o desenvolvimento e facilita a implementação das funcionalidades.
+
+3. Como o uso de cores contrastantes no design de um botão melhora a usabilidade de um aplicativo mobile?
+O uso de cores contrastantes faz com que o botão se destaque dos demais elementos da tela, facilitando sua identificação pelo usuário. Isso melhora a navegação e torna a interação mais intuitiva, ajudando o usuário a localizar rapidamente ações importantes, como o botão de login ou de confirmação.

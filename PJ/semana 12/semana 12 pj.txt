@@ -1,0 +1,11 @@
+Grupo; Ana Clara, Evilyn Rossin, Gustavo Honorato, Ryan Rodrigues, Yasmin Silva.
+
+Aula 1 - PJ
+
+Perguntas;
+
+a) Listem um requisito funcional importante:
+Exibir conteúdos e dicas sobre saúde mental para os estudantes.
+
+b) Listem um requisito não funcional importante:
+O site deve ser fácil de usar e funcionar em celulares e computadores.

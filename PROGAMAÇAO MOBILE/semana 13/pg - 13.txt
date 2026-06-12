@@ -1,0 +1,11 @@
+1. Quais foram os problemas de interface mais críticos encontrados no feedback dos usuários? Justifique a importância de cada um.
+Os principais problemas identificados foram a dificuldade para encontrar a área de avaliação, a falta de clareza sobre o acompanhamento e a previsão de entrega, os botões de navegação muito pequenos e a dificuldade para acessar o histórico de pedidos. Esses problemas são importantes porque dificultam a navegação, geram confusão e prejudicam a experiência do usuário ao utilizar o aplicativo.
+
+2. Como as melhorias propostas atendem aos problemas identificados? Explique com exemplos.
+As melhorias incluem destacar a área de avaliação com um botão mais visível, adicionar informações de acompanhamento e previsão de entrega diretamente na tela principal do pedido, aumentar o tamanho dos botões de navegação e criar um acesso mais fácil ao histórico de pedidos por meio de um menu principal. Essas alterações tornam as funções mais fáceis de encontrar e utilizar.
+
+3. Por que é importante coletar feedback contínuo dos usuários para aprimorar a interface de um aplicativo?
+O feedback contínuo permite identificar problemas que podem não ter sido percebidos durante o desenvolvimento. Além disso, ajuda a entender as necessidades dos usuários e a realizar melhorias constantes, tornando o aplicativo mais intuitivo, eficiente e agradável de usar.
+
+4. Como o feedback e os testes de usabilidade podem contribuir para a validação das mudanças na interface?
+O feedback e os testes de usabilidade ajudam a verificar se as melhorias realmente resolveram os problemas apontados pelos usuários. Por meio da observação e das opiniões coletadas, é possível identificar novos ajustes necessários e garantir que a interface esteja funcionando de forma clara e eficiente para todos os usuários.

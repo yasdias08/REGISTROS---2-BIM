@@ -1,0 +1,23 @@
+GRUPO; Ana Clara, Evilyn Rossin, Gustavo Honorato, Ryan Rodrigues e Yasmin Dias.
+
+AULA 1 - QUESTOES  
+
+1. Após a pesquisa sobre tendências de mercado, como você acredita que essas informações podem impactar o sucesso do seu projeto?
+
+As tendências de mercado ajudam no sucesso do nosso projeto de saúde mental, pois mostram o crescimento da procura por soluções digitais de bem-estar. Elas ajudam a melhorar o site e atender melhor o público.
+
+2. Você identificou algum impacto dessas tendências no meio ambiente? Se sim, quais seriam eles?
+
+Sim. O uso maior de tecnologias pode aumentar o consumo de energia e o lixo eletrônico. Porém, as plataformas digitais também ajudam a reduzir o uso de papel e deslocamentos, trazendo benefícios para o meio ambiente.
+
+PERGUNTAS DO GRUPO.                                                                                                                                                                                                                  1. Como o desenvolvimento do site pode impactar o meio ambiente em relação ao consumo de energia, armazenamento de dados e uso de servidores? Que práticas sustentáveis poderiam ser adotadas para reduzir esses impactos?
+
+O desenvolvimento do site pode aumentar o consumo de energia por causa dos servidores, armazenamento de dados e acesso constante à internet. Para reduzir esses impactos, podem ser adotadas práticas como otimização do site, redução de arquivos desnecessários, uso de servidores mais eficientes e armazenamento apenas de dados importantes.
+
+2. O projeto do site pode gerar algum tipo de poluição digital, como desperdício de recursos computacionais, excesso de armazenamento ou alto consumo de internet? Como esses problemas poderiam ser minimizados?
+
+Sim. O site pode gerar poluição digital por meio do excesso de arquivos, uso exagerado de armazenamento e alto consumo de internet. Esses problemas podem ser minimizados com organização dos dados, limpeza de arquivos inúteis, imagens mais leves e programação otimizada para evitar desperdício de recursos.
+
+3. De que forma a comunidade ou os usuários podem participar do desenvolvimento e da melhoria do site? Como essa colaboração pode aumentar a utilidade, acessibilidade e aceitação do projeto?
+
+A comunidade pode participar dando sugestões, relatando erros e compartilhando opiniões sobre o funcionamento do site. Essa colaboração ajuda a melhorar a acessibilidade, utilidade e qualidade do projeto, tornando o site mais útil e aceito pelos usuários.

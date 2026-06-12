@@ -1,0 +1,7 @@
+AULA 1 - PERGUNTAS
+
+1- O Inception-V3 é uma boa referência porque ele é um modelo muito conhecido e confiável para analisar imagens. Ele consegue identificar padrões e qualidade nas imagens geradas pela IA, então acaba sendo usado como base para comparação.
+
+2- O IS mede a qualidade e a variedade das imagens geradas, então quanto maior o valor melhor. Já o FID compara as imagens geradas com imagens reais, então quanto menor o valor melhor e mais realistas as imagens ficam.
+
+3- Esses limiares ajudam a ter uma noção rápida se o desempenho da IA está bom ou não. Por exemplo, IS maior que 5 e FID menor que 50 mostram que as imagens têm uma qualidade considerada aceitável.

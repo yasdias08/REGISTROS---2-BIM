@@ -1,0 +1,11 @@
+1. O que é uma API e por que ela é útil para desenvolvedores de aplicativos móveis?
+Uma API (Interface de Programação de Aplicações) é um conjunto de regras que permite a comunicação entre diferentes sistemas e aplicativos. Ela é útil porque possibilita que os desenvolvedores utilizem serviços e dados de outras plataformas sem precisar criar tudo do zero, economizando tempo e aumentando as funcionalidades do aplicativo.
+
+2. Quais são os benefícios de integrar uma API em um aplicativo de viagens?
+A integração com APIs permite acessar informações atualizadas em tempo real, como previsão do tempo, mapas e conversão de moedas. Além disso, melhora a experiência do usuário, reduz o tempo de desenvolvimento e amplia os recursos disponíveis no aplicativo.
+
+3. Escolha uma API popular que poderia ser usada no aplicativo de viagens e explique seu valor para o usuário.
+Uma API bastante útil é a API do Google Maps. Ela permite exibir mapas, localizar pontos turísticos, calcular rotas e fornecer direções. Isso ajuda o usuário a se orientar durante a viagem e encontrar locais de interesse de forma rápida e prática.
+
+4. Quais são alguns desafios de trabalhar com APIs externas e como podem ser resolvidos?
+Alguns desafios incluem falhas de conexão com a internet, mudanças na API e limites de uso definidos pelo fornecedor do serviço. Esses problemas podem ser resolvidos com tratamento de erros, atualização constante da integração e utilização de mecanismos de armazenamento temporário de dados para manter o funcionamento do aplicativo mesmo em situações de instabilidade.
