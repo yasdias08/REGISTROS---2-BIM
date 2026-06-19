@@ -1,0 +1,38 @@
+Quantos branches de longa duração vocês criarão?
+R: Nenhuma.
+
+Se vocês criarem branches, quanto tempo eles devem durar?
+R: Poucas horas ou no máximo 1 dia.
+
+Com que frequência Ana e Bruno devem fazer commit e push para o branch main?
+R: Várias vezes ao dia.
+
+O que eles devem fazer no final de cada dia de trabalho?
+R: Integrar o código e testar o sistema.
+
+Quais serão os nomes das Feature Flags?
+R:
+  habilitarPagamentoPIX
+  habilitarCupomDesconto
+
+Qual deve ser o valor padrão das flags em produção?
+ 
+ 
+R: falso.
+
+Por que essa é a escolha mais segura?
+R: Porque evita mostrar funções incompletas aos usuários.
+
+Como essa abordagem incentiva mais a cooperação entre Ana e Bruno?
+R: Porque eles precisam integrar e comunicar mudanças constantemente.
+
+Qual é a parte mais difícil de manter no Trunk-Based Development?
+R: Manter integração frequente do código.
+
+O que acontece se alguém não integrar o código por vários dias?
+R: Surgem conflitos e bugs.
+
+Qual é o maior benefício para a empresa ao usar Feature Flags?
+R: Permite ativar ou desativar funcionalidades rapidamente.
+
+https://github.com/yasdias08/versio11
